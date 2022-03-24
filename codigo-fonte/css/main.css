@@ -1,0 +1,56 @@
+body
+{
+    background-color:#E6E6FA;
+}
+a{
+    text-decoration: none !important;
+}
+#logo{
+    color: red !important;
+}
+#faixa{
+    height: 35px !important;
+    background-color: #A9A9A9 !important;
+}
+.busca{
+    width: 500px !important;
+}
+.ab{
+    padding-inline: 40px !important;
+}
+.cat{
+    border: 1px solid black !important;
+}
+.central{
+    margin-top: 50px !important;
+    justify-content: center !important;
+}
+.abc{
+    color: dimgray !important;
+}
+#menucc{
+    height: 200px !important;
+}
+.xy:hover{
+    width: 500px !important;
+}
+#cateimagem{
+    float: left;
+    margin-left: 10px;
+    display: none;
+}
+.dropdown-menu:hover #cateimagem{
+    display: block;
+}
+.dropdown-item{
+    width: 200px !important;
+}
+#categorias{
+    float: left;
+}
+.link_anuncio{
+    color: black !important;
+}
+.link_anuncio .card-body:hover{
+    color:dimgray !important;
+}
