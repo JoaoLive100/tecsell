@@ -1,6 +1,9 @@
 # TCC - TecSell 🚀
 TCC em Informática - Colégio Técnico Opção (2021)
 
+Explore o projeto
+http://tecsell.herokuapp.com/index.php
+
 Documentação do Projeto
 [documento-entregue.pdf](https://github.com/JoaoLive100/TecSell/files/8342064/documento-entregue.pdf)
 
